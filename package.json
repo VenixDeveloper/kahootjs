@@ -1,6 +1,6 @@
 {
   "name": "@venixthedev/kahootjs",
-  "version": "2.4.0",
+  "version": "2.4.1",
   "description": "Replacement for kahoot.js-updated that works",
   "main": "index.js",
   "scripts": {
